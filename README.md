@@ -1,6 +1,6 @@
 # Computer Science Dictionary
 
-* [Micro Service Architecture(MSA)](#microservice-architecturemsa)
+* [Microservice Architecture(MSA)](#microservice-architecturemsa)
 
 ### Microservice Architecture(MSA)
 
