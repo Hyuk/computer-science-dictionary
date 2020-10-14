@@ -1,1 +1,1 @@
-# computer-science-dictionary
+# Computer Science Dictionary
